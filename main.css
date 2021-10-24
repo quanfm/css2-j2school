@@ -25,14 +25,14 @@ html {
 #main .sub--left--banner {
     width: 5%;
     height: 100%;
-    background-image: url(/soc.jpg);
+    background-image: url(soc.jpg);
     float: left;
 }
 
 #main .content--banner {
     width: 75%;
     height: 100%;
-    background-image: url(/sua1.gif);
+    background-image: url(sua1.gif);
     background-repeat: no-repeat;
     background-position: center;
     float: left;
